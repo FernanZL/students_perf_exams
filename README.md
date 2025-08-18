@@ -1,4 +1,4 @@
-# Data analysis and statistical testing for students performances in examns.
+# Data analysis and statistical testing for students performances in exams.
 
 This project consists of a statistical analysis of the perfomance of students on exams, based on a Kaggle dataset. You can download the data from its Kaggle [page](https://www.kaggle.com/datasets/spscientist/students-performance-in-exams).
 
